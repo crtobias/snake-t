@@ -1,0 +1,9 @@
+td {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+}
+
+.cabeza {
+  background-color: #f00; /* Color de fondo para la cabeza de la serpiente */
+}
